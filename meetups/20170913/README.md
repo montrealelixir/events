@@ -8,6 +8,8 @@
 
 A review of points of interest in our local community and Elixir in general.
 
+##### Links
+
 - [Video](https://www.youtube.com/watch?v=???)
 
 
@@ -23,11 +25,15 @@ One of the key new features in Phoenix 1.3 is the addition of Contexts. I used t
 - why are Contexts good?
 - what next?
 
+##### Links
+
 - [Video](https://www.youtube.com/watch?v=???)
 - [Slides](https://github.com/cleaver/elixir-presentation-2017-09)
 
 ### Why We Chose Elixir and How It Helped Tackle Concurrency and Scalability
 
 [Ahmad Ferdous Bin Alam](https://twitter.com/ahmadferdous)
+
+##### Links
 
 - [Video](https://www.youtube.com/watch?v=???)
