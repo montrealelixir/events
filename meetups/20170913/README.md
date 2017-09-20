@@ -36,5 +36,5 @@ One of the key new features in Phoenix 1.3 is the addition of Contexts. I used t
 
 ##### Links
 
-- [Slides](./ferdous-2017-09-montreal-eilxir-meetup.pdf)
 - [Video](https://www.youtube.com/watch?v=iWCCThD040A&t=26s&list=PLe07JYpYU5F3D9aBZdv7OAmbRVjQmFyhQ&index=3)
+- [Slides](./ferdous-2017-09-montreal-eilxir-meetup.pdf)
