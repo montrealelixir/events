@@ -10,7 +10,7 @@ A review of points of interest in our local community and Elixir in general.
 
 ##### Links
 
-- [Video](https://www.youtube.com/watch?v=???)
+- [Video](https://www.youtube.com/watch?v=S362bHXS8UI&t=1s&list=PLe07JYpYU5F3D9aBZdv7OAmbRVjQmFyhQ&index=1)
 
 
 ### Phoenix 1.3 and Contexts
@@ -27,7 +27,7 @@ One of the key new features in Phoenix 1.3 is the addition of Contexts. I used t
 
 ##### Links
 
-- [Video](https://www.youtube.com/watch?v=???)
+- [Video](https://www.youtube.com/watch?v=y25Suot7vto&t=79s&list=PLe07JYpYU5F3D9aBZdv7OAmbRVjQmFyhQ&index=2)
 - [Slides](https://github.com/cleaver/elixir-presentation-2017-09)
 
 ### Why We Chose Elixir and How It Helped Tackle Concurrency and Scalability
@@ -37,4 +37,4 @@ One of the key new features in Phoenix 1.3 is the addition of Contexts. I used t
 ##### Links
 
 - [Slides](./ferdous-2017-09-montreal-eilxir-meetup.pdf)
-- [Video](https://www.youtube.com/watch?v=???)
+- [Video](https://www.youtube.com/watch?v=iWCCThD040A&t=26s&list=PLe07JYpYU5F3D9aBZdv7OAmbRVjQmFyhQ&index=3)
