@@ -19,8 +19,7 @@ A review of points of interest in our local community and Elixir in general.
 
 ##### Links
 
-- [Video](???)
-- [Slides](./frappier-2017-10-montreal-elixir-meetup.pdf)
+- [Video](https://youtu.be/kbo10udIlu0)
 
 
 ### Plug Internals
@@ -31,5 +30,5 @@ The Plug library is at the core of the Phoenix framework. Its a composable and v
 
 ##### Links
 
-- [Video](???)
+- [Video](https://youtu.be/v_GuMVcm5MQ)
 - [Slides](https://cdn.rawgit.com/martinos/plug_anatomy_presentation/master/slideshow.html#/)
