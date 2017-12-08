@@ -10,7 +10,7 @@ A review of points of interest in our local community and Elixir in general.
 
 ##### Links
 
-- [Video](???)
+- [Video](https://youtu.be/1imxzxygGnw)
 
 
 ### Using Elixir to scale Video User Profile Service for the Olympics
