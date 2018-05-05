@@ -4,4 +4,4 @@ Join us every second Wednesday of the month to learn and share your passion for 
 
 ## About this Repository
 
-This Git repository is an archive of past meetups. Issues are used for planning future meetups.
+This GitHub repository is used as an issue tracker for planning events.
