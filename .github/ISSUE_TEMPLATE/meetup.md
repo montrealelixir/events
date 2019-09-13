@@ -10,6 +10,12 @@ about: Plan a meetup.
 - Videographer: {name}
 - Video Producer: {name}
 
+## Checklists
+
+- [Event Organizer](#event-organizer-checklist)
+- [Videographer](#videographer-checklist)
+- [Video Producer](#video-producer-checklist)
+
 ## Presenters
 
 ### Presentation - {presenter name}
@@ -33,6 +39,7 @@ about: Plan a meetup.
 - 20:20 Open Announcements: Would you like to introduce yourself to the group and what you hope to learn? Are you a company looking to hire an Elixir developer? Please share!
 - 20:30 Finish: See you in {month}!
 
+<a name="event-organizer-checklist"></a>
 ## Event Organizer Checklist
 
 ### ASAP before the event
@@ -124,6 +131,7 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Post photos to Meetup.com
 
+<a name="videographer-checklist"></a>
 ## Videographer Checklist
 
 ### On the day of the event
@@ -149,6 +157,7 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Pack equipment
 
+<a name="video-producer-checklist"></a>
 ## Video Producer Checklist
 
 ### ASAP after the event
