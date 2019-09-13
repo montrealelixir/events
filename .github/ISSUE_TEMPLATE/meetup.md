@@ -70,7 +70,6 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 > Hey everybody, we're looking forward to seeing you tonight. If you're unable to make it, can you please update your RSVP as a "No". This will be a big help with planning. Hopefully, we'll see you next month :-)
 
 - [ ] Print name tags
-- [ ] Print [presentation checklist](https://github.com/montrealelixir/playbook/issues/18)
 
 #### Food and Beverage
 
